@@ -6,3 +6,6 @@ The Fitness Lifestyle Prediction Model - Innovize is a machine learning project 
 
 ![image](https://github.com/user-attachments/assets/d3230bfb-a1d1-454a-8d42-48daa8a76ad4)
 
+![image](https://github.com/user-attachments/assets/206542c5-0e08-481f-b981-8f396546f425)
+
+
